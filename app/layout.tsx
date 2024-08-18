@@ -19,7 +19,7 @@ const description =
   'Портал ИИ-поисковик'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://search.prtl.cc'),
+  metadataBase: new URL('https://s.prtl.cc'),
   title,
   description,
   openGraph: {
