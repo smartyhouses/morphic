@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'What is GPT-4o mini?',
-    message: 'What is GPT-4o mini?'
+    heading: 'Как работает ChatGPT?',
+    message: 'Как работает ChatGPT?'
   },
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'Есть ли правда в ИИ?',
+    message: 'Есть ли правда в ИИ?'
   },
   {
-    heading: 'How does the Vercel AI SDK work?',
-    message: 'How does the Vercel AI SDK work?'
+    heading: 'Как открыть банку кильки двумя ложками и тапком?',
+    message: 'Как открыть банку кильки двумя ложками и тапком?'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'Tesla vs Lada',
+    message: 'Tesla vs Lada'
   }
 ]
 export function EmptyScreen({
