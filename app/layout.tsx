@@ -14,7 +14,7 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
+const title = 'Портал-поиск'
 const description =
   'Портал ИИ-поисковик'
 
