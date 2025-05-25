@@ -201,8 +201,8 @@
       "toolCallType": "native"
     },
     {
-      "id": "<OPENAI_COMPATIBLE_MODEL>",
-      "name": "<OPENAI_COMPATIBLE_MODEL>",
+      "id": "ev4f",
+      "name": "ev4f",
       "provider": "OpenAI Compatible",
       "providerId": "openai-compatible",
       "enabled": true,
