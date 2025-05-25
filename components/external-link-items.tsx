@@ -6,18 +6,18 @@ import { SiDiscord, SiGithub, SiX } from 'react-icons/si'
 
 const externalLinks = [
   {
-    name: 'X',
-    href: 'https://x.com/morphic_ai',
+    name: 'XXX',
+    href: 'https://search.portalos.ru',
     icon: <SiX className="mr-2 h-4 w-4" />
   },
   {
-    name: 'Discord',
-    href: 'https://discord.gg/zRxaseCuGq',
+    name: 'Agents',
+    href: 'https://ag.portalos.ru',
     icon: <SiDiscord className="mr-2 h-4 w-4" />
   },
   {
-    name: 'GitHub',
-    href: 'https://git.new/morphic',
+    name: 'We',
+    href: 'https://portalos.ru',
     icon: <SiGithub className="mr-2 h-4 w-4" />
   }
 ]
